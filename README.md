@@ -1,4 +1,4 @@
-## Typing Errors in Factual Knowledge Graphs: Severity and Possible Ways Out
+## This is a re-implementation of -- Typing Errors in Factual Knowledge Graphs: Severity and Possible Ways Out -- for CS628 data mining at University of Kentucky
 [[Paper]](https://arxiv.org/abs/2102.02307)  [[Data]](https://drive.google.com/drive/folders/18PVGaDJy_JaJV8jezYeRYteFlomoBfnt?usp=sharing)
 
 ### Quick start
